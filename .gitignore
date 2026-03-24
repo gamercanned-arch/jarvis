@@ -1,0 +1,4 @@
+./venv
+mcp_filesystem.log
+Config.YAML
+models/

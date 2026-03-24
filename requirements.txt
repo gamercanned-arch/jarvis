@@ -1,0 +1,12 @@
+jinja2
+TTS
+huggingface_hub
+requests
+ddgs
+ipython
+mcp
+mcp-filesystem
+openai-whisper
+sounddevice
+scipy
+webrtcvad
